@@ -1,0 +1,7 @@
+.row{
+    display: flex;
+}
+p{
+    font-weight: bold;
+    color: red;
+}
